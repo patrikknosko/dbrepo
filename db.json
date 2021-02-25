@@ -1,6 +1,7 @@
 
 
-   "dudes": [
+{
+	"dudes": [
 	{
 		"id": 1,
 		"who": "Finn the Human",
@@ -32,4 +33,5 @@
 		"cool": 9
 	}
 ]
+}
 
